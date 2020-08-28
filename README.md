@@ -1,12 +1,9 @@
 # TechTransfer
-Technology Transfer Website Draft
 
 
 Front Page
 Through research and innovation at Child Mind Institute, we seek  to change the way the world understands and treats children struggling with mental health and learning disorders. We work with clinicians and patients who inspire and guide the development of our technologies and the directions of our research. We use technology, research and analytics to address and overcome real-world, clinical challenges for child development and mental health. We are looking to start a dialogue and seek investor support to continue and expand this important work. 
 
-2
-2
 
 Child Mind Institute Research
 VISION STATEMENT
@@ -24,7 +21,7 @@ New Technologies. Standard methods for assessment, diagnosis, and treatment of m
 Scalable Solutions. Recent decades have witnessed the development of myriad potentially viable solutions for diagnosing, monitoring and treating mental health and learning disorders. Unfortunately, even the most promising among them face practical and logistical challenges that will limit their accessibility and scalability if not addressed. Our team is dedicated to the pursuit of scalable solutions that leverage innovative models, methods and technologies to maximize their utility for a global audience so that no child is left behind, regardless of who or where they are. 
 
 Open Science. Research silo cultures stand in the way of scientific progress in the diagnosis and treatment of mental health and learning disorders. As a recognized leader in open science, the Child Mind Institute is committed to democratizing inquiry by making analysis tools and scientific data freely available to the global scientific community. This ensures that collaboration is widespread, producing innovative solutions that can be tested, improved, and adopted widely for the acceleration of scientific progress. 
-3
+
 
 Child Mind Institute Research Teams
 Autism Center - Research Program. The Autism Center studies differences in brain connectivity that emerge in children with autism, with the intention of establishing reliable and objective biological markers. Consistent with the open science philosophy of the Child Mind Institute, the Center houses the Autism Brain Imaging Data Exchange, which represents the largest open repository for autism brain imaging data in the world.
@@ -37,7 +34,6 @@ Healthy Brain Network. The Healthy Brain Network is a biobank comprised of data 
 
 MATTER Lab (Mind-Assisting Technologies for Therapy, Education, and Research). The MATTER Lab's mission is to advance our understanding and care of mental health by building, improving, and deploying technologies for use in therapy, education, and research. 
 
-4
 
 Forms and Policies
 -Policy on Intellectual Property 
@@ -47,9 +43,7 @@ Forms and Policies
 
 [will link to documents]
 
-5
 
-6
 Innovations
 The Tingle Wearable (Gesture Recognition Device)
 for monitoring hand to face motions
@@ -86,37 +80,14 @@ Description and Usage
 This device can monitor BFRBs including hitting oneself, biting, pulling out hair, skin picking and cutting, as well less severe but damaging behaviors such as nail biting, thumb sucking, and nose picking. While often impairing, these symptoms are frequently reported but often not observed in clinical settings. This makes diagnosis, as well as treatment planning and monitoring, exceedingly difficult. Clinicians need data on BFRB frequency and timing for the purposes of diagnosis, treatment planning and monitoring, while patients need immediate, real-time feedback to make behavioral therapies more effective. Not only can this device be helpful for monitoring BFRBs, it can also monitor more generalizable behaviors like face touching, especially relevant now during the COVID-19 outbreak. Results and FutureThe Tingle's performance characteristics in healthy volunteers were studied and published (Son JJ et al., "Thermal Sensors Improve Wrist-Worn Position Tracking," npj Digital Medicine (2019) 2:15). The Tingle is currently a prototype. We are currently seeking opportunities to commercialize (manufacture and distribute) the Tingle for widespread use.
 
 
-7
-Possibly combine Tingle page with Thermo page to show two different applications of the same technology instead of marketing them separately? 
-Double check on patents with Brett
-Status and Patent 
-Description 
-Results 
-Usage 
-7
-
 The Thermo Wearable
 Status and PatentThe Thermo Wearable is the subject of U.S. Patent No. 10,119,807 and 10,520,297 [Will link to patents]. The Thermo is currently a prototype. Description and UsageThe Thermo wearable uses thermal sensors to track its position relative to the body. This innovative standalone approach to position tracking without cameras has the potential to increase the accuracy of measuring movement in real time. The device is also lightweight, non-intrusive and self-contained, making it ideal for integrating into augmented or virtual reality systems. See the description of the Tingle device, which also serves to track position of the hand with respect to the head and torso, but for a more narrow application (monitoring of body-focused repetitive behaviors). Results and FutureThe Thermo is currently a prototype. We are currently seeking opportunities to commercialize the Thermo for widespread use in position tracking for console game playing, VR, AR, etc.
 
-8
-Possibly combine Tingle page with Thermo page to show two different applications of the same technology instead of marketing them separately? 
-Double check on patents with Brett
-Status and Patent 
-Description 
-Results 
-Usage 
-
-8
 
 ODAlert Drug Overdose Detector
 Status and PatentThe ODalert device is a prototype. Patent Pending.
 Description and UsageThis device is the first in a series of projects exploring wearable device solutions to drug overdose and drug addiction.The primary motivation for building this prototype was to start a discussion with the National Institute on Drug Abuse on potential opportunities to detect opiate overdose with inexpensive devices built from off-the-shelf components. Depressed respiration is the best way to detect opiate overdose and the only approved indicator for the administration of Narcan (Naloxone).Results and FutureThe device contains an accelerometer, a PPG optical heart rate sensor and a thermopile contactless thermometer to detect skin temperature. The device also contains an extremely loud buzzer and is connected to a smartphone app which is capable of alerting an emergency response team. The emergency response feature is currently a mockup and does not function. The general idea is that the device uses sensor data to detect a possible drug overdose event. The device then activates its buzzer. If the user does not deactivate the buzzer after an allotted period of time it is assumed that an overdose is taking place and the device alerts emergency responders through the connected phone app. We are working on similar, more practical devices and welcome opportunity for collaboration on this project. 
 
-
-9
-any filed or published IP?
-
-9
 
 MindLogger
 Status and PatentMindLogger is currently being used to gather survey data as part of the 10,000-person Healthy Brain Network research study. After this initial test, MindLogger will be used in research studies by our collaborators at the National Institute of Mental Health, MIT, UT Austin, the CRI in Paris, and elsewhere.
@@ -124,9 +95,6 @@ Description and UsageThe MATTER Lab is developing MindLogger to make it easy fo
 Each screen in a MindLogger activity can include: Informational text, picture, or audio, Question followed by image or text response options, Slider bar, Text entry, Table entry (text or numbers), Audio record, Photo/video capture, Draw/tap, GPS button, Simple cognitive task. Each screen can include a delay, a timer, as well as conditional logic to determine where to go next.
 Results and Future
 MindLogger is currently being used to gather survey data as part of the 10,000-person Healthy Brain Network research study. After this initial test, MindLogger will be used in research studies by our collaborators at the National Institute of Mental Health, MIT, UT Austin, the CRI in Paris, and elsewhere.
-
-10
-10
 
 CrisisLogger
 Status and PatentPatent Pending
@@ -136,20 +104,9 @@ Results and Future
 CrisisLogger is currently collecting data. 
 
 
-11
-Needs more commercially focused language 
-11
-
 Face Guardian
-
 Status and PatentFace Guardian is entirely open source. Development is ongoing and contributions are welcome.Description and UsageUse a phone's compass and a magnet on your wrist to detect face touching, including audio and vibration alerts. Face touching is one of the primary ways people contract SARS-CoV-2, the coronavirus responsible for COVID-19. People on average touch their faces 23 times an hour. Obviously we should stop touching our faces. Thing is, we can’t. Face touching is a deeply ingrained unconscious behavior. Face Guardian is an attempt to solve this problem in a highly scalable fashion. All it requires is a smartphone and a magnet. Face Guardian’s target demographic is parents and children stuck at home during the coronavirus pandemic. Although this is meant to be a fun educational activity for parents and children, anyone can benefit from it. Setup Face Guardian before you read a news article, write some code or procrastinate on the internet. Even with the possibly obtrusive experience of wearing your phone around your neck, you might be surprised at how quickly you inadvertently touch your face.
 Results and FutureGet the Android app on Google Play HEREGo to the Mobile Web App HERE (Android Chrome Only For Now)
-
-
-
-
-12
-12
 
 Intraoral Respiration Monitor 
 Status and PatentThe intraoral respirometer is a prototype and we are seeking patent protection. We are working on similar, more practical devices. Patent accepted, pending issue. [Link to Patent]
@@ -157,24 +114,16 @@ Description and UsageThis device measures the air pressure, humidity and skin t
 The primary motivation for building this prototype was to start a discussion with the National Institute on Drug Abuse on potential opportunities to detect opiate overdose with a future, miniaturized version of such a device, or other form factor and placement. Depressed respiration is the best way to detect opiate overdose and the only approved indicator for the administration of Narcan (Naloxone). Full waveform respiration data is surprisingly difficult to obtain. Spirometers, chest-straps and pulse oximetry (including photoplethysmogram) are relatively inaccurate - particularly when respiration becomes depressed.Results and FutureThe device contains a 16Mhz ARM Cortex M0 microprocessor combined with a Bluetooth radio for wireless communication (Nordic nRF51822). We stream data to a Web Bluetooth enabled web application. The streamed data is displayed graphically but can also be used to train and then apply data to a LSTM MLP neural network for the purpose of tracking respiration. The BME280 air pressure sensor is extremely sensitive and can acquire the respiration waveform regardless of whether users breath through nose or mouth. 
 
 
-
-
-
-
-13
-13
-
 Respirometer
 Status and PatentUS Patent Application No. 16/816220 Filed 3/11/2020 [Link to Patent]Description and UsageThe device's primary intended use is respiratory rate (RR) vital sign monitoring, although many other uses are possible. The device functions by gathering and analyzing time series data from a number of sensors, namely surface temperature (thermopile), air temperature, air pressure and air water content (humidity). The efficacy of the device is dependent on the presence of an exhalation vent in an oxygen mask, something that is universal to oxygen masks. The device sensors are placed directly over the vent, in a fashion that very clearly does not risk blocking the vent. Results and FutureThe device is capable of independently computing respiration rate from time series sensor data. Currently, this is accomplished with peak detection and relatively simple filtering, but this sort of data processing can be done many different ways. The device contains a Bluetooth radio, and can transmit raw sensor data to a computer or mobile device. Raw sensor data from the device could be incorporated into computer software to provide a great deal more information than simple respiration rate. Respiration strength, volume, acceleration and any abnormalities thereof can be computed. 
 The device is attached to the oxygen mask with an adhesive -backed reclosable fastener (like velcro). In order to accommodate a variety of oxygen mask shapes, the sensors themselves are placed in an adjustable hinged arm attached to the main device body. Design of the device for placement inside the mask is possible but poses an obvious choking hazard. It would, however, be straightforward to integrate the device into the oxygen mask itself. 
 
-14
-14
 
 Team
 Michael P. Milham, MD, PhD
-15
+
 Arno Klein, PhD
+
 Curt White
-15
+
 
